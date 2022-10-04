@@ -1,0 +1,4011 @@
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977473024
+[vict_phys]:
+5977628775 32
+[vict_phys]:
+5977635667 64
+[vict_phys]:
+5980766906 1
+[vict_phys]:
+5980767132 32
+[vict_phys]:
+5980772744 64
+[vict_phys]:
+5980774904 8
+[vict_phys]:
+5980774987 64
+[vict_phys]:
+5980776286 2
+[vict_phys]:
+5980778449 128
+[vict_phys]:
+5980781147 1
+[vict_phys]:
+5980781935 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977505792
+[vict_phys]:
+5980800056 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977440256
+[vict_phys]:
+5977600225 1
+[vict_phys]:
+5977602529 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977489408
+[vict_phys]:
+5980749834 2
+[vict_phys]:
+5980754986 32
+[vict_phys]:
+5980759002 128
+[vict_phys]:
+5980761065 16
+[vict_phys]:
+5980765050 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977423872
+[vict_phys]:
+5977552624 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977522176
+[vict_phys]:
+5977650279 2
+[vict_phys]:
+5977651829 8
+[vict_phys]:
+5980786572 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977456640
+[vict_phys]:
+5980725594 1
+[vict_phys]:
+5980730472 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977481216
+[vict_phys]:
+5980766546 8
+[vict_phys]:
+5980772545 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977415680
+[vict_phys]:
+5980706303 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977513984
+[vict_phys]:
+5977653874 4
+[vict_phys]:
+5977669427 2
+[vict_phys]:
+5980801773 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977448448
+[vict_phys]:
+5977596068 8
+[vict_phys]:
+5980738175 64
+[vict_phys]:
+5980746159 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977497600
+[vict_phys]:
+5977612928 2
+[vict_phys]:
+5977617825 2
+[vict_phys]:
+5980750686 1
+[vict_phys]:
+5980750792 128
+[vict_phys]:
+5980752893 32
+[vict_phys]:
+5980758568 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977432064
+[vict_phys]:
+5980691928 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5977530368
+[vict_phys]:
+5980786808 16
+[vict_phys]:
+5980788824 128
+[vict_phys]:
+5980792224 128
+[vict_phys]:
+5980798616 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984518144
+[vict_phys]:
+5984972250 64
+[vict_phys]:
+5987527650 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984583680
+[vict_phys]:
+5984898442 1
+[vict_phys]:
+5984899466 16
+[vict_phys]:
+5987292056 128
+[vict_phys]:
+5987583924 16
+[vict_phys]:
+5987585828 16
+[vict_phys]:
+5987585921 32
+[vict_phys]:
+5987586483 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984485376
+[vict_phys]:
+5985226535 1
+[vict_phys]:
+5985235312 4
+[vict_phys]:
+5985456007 2
+[vict_phys]:
+5987320744 128
+[vict_phys]:
+5987332082 16
+[vict_phys]:
+5987552642 16
+[vict_phys]:
+5987554314 2
+[vict_phys]:
+5987557874 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984550912
+[vict_phys]:
+5985527031 64
+[vict_phys]:
+5987257353 64
+[vict_phys]:
+5987262011 64
+[vict_phys]:
+5987616168 64
+[vict_phys]:
+5987616899 16
+[vict_phys]:
+5987617168 128
+[vict_phys]:
+5987617205 16
+[vict_phys]:
+5987623412 1
+[vict_phys]:
+5987623536 2
+[vict_phys]:
+5987625030 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984534528
+[vict_phys]:
+5984946476 32
+[vict_phys]:
+5984957536 128
+[vict_phys]:
+5987500082 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984600064
+[vict_phys]:
+5984880812 2
+[vict_phys]:
+5984885402 64
+[vict_phys]:
+5984889706 2
+[vict_phys]:
+5984891245 32
+[vict_phys]:
+5984894172 8
+[vict_phys]:
+5985181100 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984501760
+[vict_phys]:
+5987319672 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984567296
+[vict_phys]:
+5985144227 16
+[vict_phys]:
+5985146788 1
+[vict_phys]:
+5985152737 1
+[vict_phys]:
+5985153890 8
+[vict_phys]:
+5987252315 64
+[vict_phys]:
+5987605808 1
+[vict_phys]:
+5987609952 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984526336
+[vict_phys]:
+5985424498 4
+[vict_phys]:
+5987526442 128
+[vict_phys]:
+5987526809 64
+[vict_phys]:
+5987527098 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984591872
+[vict_phys]:
+5987584963 128
+[vict_phys]:
+5987589490 64
+[vict_phys]:
+5987594803 64
+[vict_phys]:
+5987595906 1
+[vict_phys]:
+5987596841 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984493568
+[vict_phys]:
+5985007872 2
+[vict_phys]:
+5985008569 16
+[vict_phys]:
+5987557779 128
+[vict_phys]:
+5987559297 32
+[vict_phys]:
+5987563441 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984559104
+[vict_phys]:
+5987619016 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984542720
+[vict_phys]:
+5984957320 8
+[vict_phys]:
+5987340653 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984608256
+[vict_phys]:
+5985189285 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5984509952
+[vict_phys]:
+5984991016 1
+[vict_phys]:
+5987534832 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5988106240
+[vict_phys]:
+5990810116 128
+[vict_phys]:
+5990810119 128
+[vict_phys]:
+5990810369 4
+[vict_phys]:
+5990812467 32
+[vict_phys]:
+5990819684 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5988040704
+[vict_phys]:
+5988198744 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5988024320
+[vict_phys]:
+5990892424 32
+[vict_phys]:
+5990894723 1
+[vict_phys]:
+5990901491 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5988122624
+[vict_phys]:
+5990802686 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5988057088
+[vict_phys]:
+5990861860 8
+[vict_phys]:
+5990865445 32
+[vict_phys]:
+5990868578 4
+[vict_phys]:
+5990868682 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5988114432
+[vict_phys]:
+5990812400 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5988048896
+[vict_phys]:
+5990885376 32
+[vict_phys]:
+5990888371 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5988147200
+[vict_phys]:
+5990788898 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5988098048
+[vict_phys]:
+5990831075 64
+[vict_phys]:
+5990836017 32
+[vict_phys]:
+5990837282 1
+[vict_phys]:
+5990841600 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5988032512
+[vict_phys]:
+5988218892 128
+[vict_phys]:
+5990897872 1
+[vict_phys]:
+5990899029 32
+[vict_phys]:
+5990900130 128
+[vict_phys]:
+5990900132 16
+[vict_phys]:
+5990900482 32
+[vict_phys]:
+5990904471 8
+[vict_phys]:
+5990907300 8
+[vict_phys]:
+5990907649 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5988130816
+[vict_phys]:
+5988238296 128
+[vict_phys]:
+5988241018 16
+[vict_phys]:
+5988252160 4
+[vict_phys]:
+5988253338 128
+[vict_phys]:
+5990807856 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5995151360
+[vict_phys]:
+5998150920 4
+[vict_phys]:
+5998151597 128
+[vict_phys]:
+5998154152 1
+[vict_phys]:
+5998155023 32
+[vict_phys]:
+5998156472 1
+[vict_phys]:
+5998157066 8
+[vict_phys]:
+5998157336 4
+[vict_phys]:
+5998159871 8
+[vict_phys]:
+5998160202 2
+[vict_phys]:
+5998161484 16
+[vict_phys]:
+5998162172 1
+[vict_phys]:
+5998162537 8
+[vict_phys]:
+5998164826 8
+[vict_phys]:
+5998165198 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5995216896
+[vict_phys]:
+5998218280 16
+[vict_phys]:
+5998222904 1
+[vict_phys]:
+5998223167 2
+[vict_phys]:
+5998225643 2
+[vict_phys]:
+5998228219 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5995118592
+[vict_phys]:
+5998118973 4
+[vict_phys]:
+5998120842 64
+[vict_phys]:
+5998123402 32
+[vict_phys]:
+5998131820 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5995184128
+[vict_phys]:
+5998192577 32
+[vict_phys]:
+5998196330 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5995134976
+[vict_phys]:
+5998171325 16
+[vict_phys]:
+5998171929 16
+[vict_phys]:
+5998172843 32
+[vict_phys]:
+5998175101 8
+[vict_phys]:
+5998180857 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5995102208
+[vict_phys]:
+5994993559 32
+[vict_phys]:
+5996043711 16
+[vict_phys]:
+5998135691 16
+[vict_phys]:
+5998139452 16
+[vict_phys]:
+5998139658 16
+[vict_phys]:
+5998140810 32
+[vict_phys]:
+5998141950 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5995167744
+[vict_phys]:
+5998204041 32
+[vict_phys]:
+5998205498 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5995159552
+[vict_phys]:
+5998155752 64
+[vict_phys]:
+5998159911 32
+[vict_phys]:
+5998160028 16
+[vict_phys]:
+5998160170 128
+[vict_phys]:
+5998160296 2
+[vict_phys]:
+5998160430 8
+[vict_phys]:
+5998163368 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5995126784
+[vict_phys]:
+5996028335 128
+[vict_phys]:
+5998117967 4
+[vict_phys]:
+5998122584 8
+[vict_phys]:
+5998123480 8
+[vict_phys]:
+5998125336 16
+[vict_phys]:
+5998126760 1
+[vict_phys]:
+5998127294 16
+[vict_phys]:
+5998130744 128
+[vict_phys]:
+5998130830 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5995192320
+[vict_phys]:
+5998183658 8
+[vict_phys]:
+5998193178 16
+[vict_phys]:
+5998195592 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5995143168
+[vict_phys]:
+5998173944 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5995208704
+[vict_phys]:
+5995100327 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+5995110400
+[vict_phys]:
+5998135898 32
+[vict_phys]:
+5998140747 2
+[vict_phys]:
+5998140750 8
+[vict_phys]:
+5998141161 16
+[vict_phys]:
+5998144444 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6002302976
+[vict_phys]:
+6003204271 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6009339904
+[vict_phys]:
+6012112675 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6009257984
+[vict_phys]:
+6012073827 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6009380864
+[vict_phys]:
+6011785427 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6009364480
+[vict_phys]:
+6011809441 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6108397568
+[vict_phys]:
+6111397165 16
+[vict_phys]:
+6111398922 32
+[vict_phys]:
+6111400617 1
+[vict_phys]:
+6111401472 16
+[vict_phys]:
+6111405405 1
+[vict_phys]:
+6111406808 1
+[vict_phys]:
+6111408234 1
+[vict_phys]:
+6111409242 8
+[vict_phys]:
+6111411016 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6108463104
+[vict_phys]:
+6108482729 32
+[vict_phys]:
+6108487801 1
+[vict_phys]:
+6111464733 1
+[vict_phys]:
+6111469464 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6108381184
+[vict_phys]:
+6111417017 128
+[vict_phys]:
+6111421164 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6108446720
+[vict_phys]:
+6108339767 4
+[vict_phys]:
+6111477788 128
+[vict_phys]:
+6111486078 128
+[vict_phys]:
+6111493067 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6108348416
+[vict_phys]:
+6111393135 64
+[vict_phys]:
+6111395556 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6108413952
+[vict_phys]:
+6109359175 1
+[vict_phys]:
+6111449786 16
+[vict_phys]:
+6111458388 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6108471296
+[vict_phys]:
+6111464538 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6108372992
+[vict_phys]:
+6108219479 1
+[vict_phys]:
+6111369288 64
+[vict_phys]:
+6111372712 8
+[vict_phys]:
+6111374217 32
+[vict_phys]:
+6111374878 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6108438528
+[vict_phys]:
+6109338991 1
+[vict_phys]:
+6109574287 16
+[vict_phys]:
+6111430361 1
+[vict_phys]:
+6111441804 128
+[vict_phys]:
+6111442584 2
+[vict_phys]:
+6111442585 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6108389376
+[vict_phys]:
+6111414522 64
+[vict_phys]:
+6111422985 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6108356608
+[vict_phys]:
+6111384158 16
+[vict_phys]:
+6111391400 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6115524608
+[vict_phys]:
+6116463239 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6115483648
+[vict_phys]:
+6116388927 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6126043136
+[vict_phys]:
+6126201079 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6126149632
+[vict_phys]:
+6126290407 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6140231680
+[vict_phys]:
+6140682742 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6154452992
+[vict_phys]:
+6157451569 2
+[vict_phys]:
+6157452208 2
+[vict_phys]:
+6157465073 8
+[vict_phys]:
+6157465944 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6154354688
+[vict_phys]:
+6157428807 32
+[vict_phys]:
+6157431923 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6154403840
+[vict_phys]:
+6154822495 128
+[vict_phys]:
+6157377896 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6154469376
+[vict_phys]:
+6157440951 128
+[vict_phys]:
+6157443954 4
+[vict_phys]:
+6157445190 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6154371072
+[vict_phys]:
+6155088609 32
+[vict_phys]:
+6155308802 4
+[vict_phys]:
+6155317730 128
+[vict_phys]:
+6157406133 1
+[vict_phys]:
+6157406353 128
+[vict_phys]:
+6157408257 64
+[vict_phys]:
+6157412032 32
+[vict_phys]:
+6157412576 8
+[vict_phys]:
+6157412704 2
+[vict_phys]:
+6157413232 16
+[vict_phys]:
+6157418208 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6154436608
+[vict_phys]:
+6157481835 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6154395648
+[vict_phys]:
+6157386311 2
+[vict_phys]:
+6157390058 32
+[vict_phys]:
+6157390160 1
+[vict_phys]:
+6157391455 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6154461184
+[vict_phys]:
+6157463297 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6154362880
+[vict_phys]:
+6157426373 128
+[vict_phys]:
+6157431058 16
+[vict_phys]:
+6157431954 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6154428416
+[vict_phys]:
+6157498929 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6154412032
+[vict_phys]:
+6157206136 128
+[vict_phys]:
+6157370304 2
+[vict_phys]:
+6157370343 1
+[vict_phys]:
+6157372405 32
+[vict_phys]:
+6157373635 32
+[vict_phys]:
+6157376240 8
+[vict_phys]:
+6157376626 4
+[vict_phys]:
+6157377122 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6154477568
+[vict_phys]:
+6157435848 32
+[vict_phys]:
+6157445010 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6154379264
+[vict_phys]:
+6157410292 4
+[vict_phys]:
+6157412400 8
+[vict_phys]:
+6157413938 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6214598656
+[vict_phys]:
+6217312739 64
+[vict_phys]:
+6217314374 32
+[vict_phys]:
+6217314670 1
+[vict_phys]:
+6217314901 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6214533120
+[vict_phys]:
+6214689785 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6214631424
+[vict_phys]:
+6214721305 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6214582272
+[vict_phys]:
+6214771544 128
+[vict_phys]:
+6217320631 64
+[vict_phys]:
+6217331042 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6214516736
+[vict_phys]:
+6217392967 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6214549504
+[vict_phys]:
+6217364930 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6214606848
+[vict_phys]:
+6217303376 1
+[vict_phys]:
+6217305683 4
+[vict_phys]:
+6217309762 8
+[vict_phys]:
+6217313072 64
+[vict_phys]:
+6217314587 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6214541312
+[vict_phys]:
+6217370561 2
+[vict_phys]:
+6217374659 4
+[vict_phys]:
+6217378482 128
+[vict_phys]:
+6217379234 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6214639616
+[vict_phys]:
+6217273462 32
+[vict_phys]:
+6217281280 16
+[vict_phys]:
+6217281410 2
+[vict_phys]:
+6217283088 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6214574080
+[vict_phys]:
+6214652362 16
+[vict_phys]:
+6217343412 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6214590464
+[vict_phys]:
+6214774409 4
+[vict_phys]:
+6217328259 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6214623232
+[vict_phys]:
+6217295527 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6218145792
+[vict_phys]:
+6219602815 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6221643776
+[vict_phys]:
+6223892272 32
+[vict_phys]:
+6223900224 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6221676544
+[vict_phys]:
+6224683084 4
+[vict_phys]:
+6224684106 1
+[vict_phys]:
+6224684414 1
+[vict_phys]:
+6224685434 16
+[vict_phys]:
+6224687082 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6221692928
+[vict_phys]:
+6222634936 2
+[vict_phys]:
+6222792863 128
+[vict_phys]:
+6223846418 128
+[vict_phys]:
+6224725675 4
+[vict_phys]:
+6224726169 1
+[vict_phys]:
+6224727210 32
+[vict_phys]:
+6224727304 32
+[vict_phys]:
+6224727737 8
+[vict_phys]:
+6224736748 2
+[vict_phys]:
+6224737918 64
+[vict_phys]:
+6224738154 64
+[vict_phys]:
+6224738776 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6221594624
+[vict_phys]:
+6224627483 16
+[vict_phys]:
+6224631455 16
+[vict_phys]:
+6224632255 16
+[vict_phys]:
+6224634875 2
+[vict_phys]:
+6224639168 2
+[vict_phys]:
+6224639688 32
+[vict_phys]:
+6224639836 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6221660160
+[vict_phys]:
+6224693673 16
+[vict_phys]:
+6224693930 64
+[vict_phys]:
+6224696456 2
+[vict_phys]:
+6224700877 4
+[vict_phys]:
+6224703199 8
+[vict_phys]:
+6224707039 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6221651968
+[vict_phys]:
+6224642114 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6221717504
+[vict_phys]:
+6224708600 1
+[vict_phys]:
+6224712904 4
+[vict_phys]:
+6224723641 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6221619200
+[vict_phys]:
+6221838378 4
+[vict_phys]:
+6222515546 4
+[vict_phys]:
+6222525498 128
+[vict_phys]:
+6224612472 128
+[vict_phys]:
+6224615039 4
+[vict_phys]:
+6224615418 32
+[vict_phys]:
+6224619530 1
+[vict_phys]:
+6224625210 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6221684736
+[vict_phys]:
+6224675801 16
+[vict_phys]:
+6224683050 4
+[vict_phys]:
+6224687288 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6221635584
+[vict_phys]:
+6224659275 64
+[vict_phys]:
+6224664402 64
+[vict_phys]:
+6224673320 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6221701120
+[vict_phys]:
+6224736047 32
+[vict_phys]:
+6224737801 1
+[vict_phys]:
+6224739263 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6221602816
+[vict_phys]:
+6224628457 16
+[vict_phys]:
+6224630642 8
+[vict_phys]:
+6224633898 4
+[vict_phys]:
+6224634297 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6242910208
+[vict_phys]:
+6245916221 64
+[vict_phys]:
+6245917053 128
+[vict_phys]:
+6245919848 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6242844672
+[vict_phys]:
+6242709971 1
+[vict_phys]:
+6242713040 1
+[vict_phys]:
+6245848107 128
+[vict_phys]:
+6245848120 8
+[vict_phys]:
+6245851016 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6242942976
+[vict_phys]:
+6242805232 1
+[vict_phys]:
+6242809074 8
+[vict_phys]:
+6243499242 16
+[vict_phys]:
+6245943820 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6242877440
+[vict_phys]:
+6243549974 16
+[vict_phys]:
+6245883833 64
+[vict_phys]:
+6245891455 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6242893824
+[vict_phys]:
+6242779154 32
+[vict_phys]:
+6243835178 16
+[vict_phys]:
+6243837816 2
+[vict_phys]:
+6245929531 4
+[vict_phys]:
+6245938635 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6242828288
+[vict_phys]:
+6245695772 2
+[vict_phys]:
+6245700777 32
+[vict_phys]:
+6245703323 8
+[vict_phys]:
+6245703912 2
+[vict_phys]:
+6245862585 16
+[vict_phys]:
+6245862972 64
+[vict_phys]:
+6245872985 2
+[vict_phys]:
+6245874155 1
+[vict_phys]:
+6245874379 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6242926592
+[vict_phys]:
+6243509613 16
+[vict_phys]:
+6243510751 8
+[vict_phys]:
+6245601324 128
+[vict_phys]:
+6245602109 64
+[vict_phys]:
+6245958715 128
+[vict_phys]:
+6245960578 64
+[vict_phys]:
+6245963394 8
+[vict_phys]:
+6245963545 64
+[vict_phys]:
+6245963788 1
+[vict_phys]:
+6245970256 128
+[vict_phys]:
+6245970926 1
+[vict_phys]:
+6245971832 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6242861056
+[vict_phys]:
+6243576670 16
+[vict_phys]:
+6243580879 64
+[vict_phys]:
+6245672650 16
+[vict_phys]:
+6245892102 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6242918400
+[vict_phys]:
+6245909582 8
+[vict_phys]:
+6245911807 128
+[vict_phys]:
+6245912783 64
+[vict_phys]:
+6245913724 32
+[vict_phys]:
+6245913979 4
+[vict_phys]:
+6245920691 4
+[vict_phys]:
+6245920914 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6242852864
+[vict_phys]:
+6243591832 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6242951168
+[vict_phys]:
+6242797538 128
+[vict_phys]:
+6242804501 4
+[vict_phys]:
+6245945848 8
+[vict_phys]:
+6245946444 4
+[vict_phys]:
+6245948106 128
+[vict_phys]:
+6245948250 128
+[vict_phys]:
+6245951646 8
+[vict_phys]:
+6245953583 16
+[vict_phys]:
+6245954477 32
+[vict_phys]:
+6245955503 4
+[vict_phys]:
+6245956365 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6242885632
+[vict_phys]:
+6242735186 64
+[vict_phys]:
+6242736454 32
+[vict_phys]:
+6243563064 16
+[vict_phys]:
+6243781327 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6242836480
+[vict_phys]:
+6245871531 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6257000448
+[vict_phys]:
+6256863831 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6257065984
+[vict_phys]:
+6256920322 128
+[vict_phys]:
+6256930005 32
+[vict_phys]:
+6259477939 64
+[vict_phys]:
+6259485922 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6257033216
+[vict_phys]:
+6256891026 8
+[vict_phys]:
+6257481509 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6257098752
+[vict_phys]:
+6256953136 2
+[vict_phys]:
+6259518706 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6256984064
+[vict_phys]:
+6256872340 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6257049600
+[vict_phys]:
+6256946626 1
+[vict_phys]:
+6256946674 1
+[vict_phys]:
+6259494276 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6257016832
+[vict_phys]:
+6257141112 8
+[vict_phys]:
+6257141571 32
+[vict_phys]:
+6259237105 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6257082368
+[vict_phys]:
+6257431682 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6257008640
+[vict_phys]:
+6257458071 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6257074176
+[vict_phys]:
+6256925264 128
+[vict_phys]:
+6256931255 8
+[vict_phys]:
+6259483795 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6257041408
+[vict_phys]:
+6256893938 128
+[vict_phys]:
+6257128068 64
+[vict_phys]:
+6259584916 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6257106944
+[vict_phys]:
+6257193602 128
+[vict_phys]:
+6257417966 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6256992256
+[vict_phys]:
+6256872018 4
+[vict_phys]:
+6257168711 8
+[vict_phys]:
+6257175841 4
+[vict_phys]:
+6259263472 1
+[vict_phys]:
+6259569040 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6257057792
+[vict_phys]:
+6256941253 1
+[vict_phys]:
+6256946728 32
+[vict_phys]:
+6257236421 4
+[vict_phys]:
+6257397826 32
+[vict_phys]:
+6259503664 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6257025024
+[vict_phys]:
+6257136887 2
+[vict_phys]:
+6257493106 8
+[vict_phys]:
+6259599618 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260523008
+[vict_phys]:
+6260671107 32
+[vict_phys]:
+6263822092 64
+[vict_phys]:
+6263822376 4
+[vict_phys]:
+6263827550 16
+[vict_phys]:
+6263829977 8
+[vict_phys]:
+6263830254 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260621312
+[vict_phys]:
+6260769205 1
+[vict_phys]:
+6263919262 4
+[vict_phys]:
+6263923416 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260555776
+[vict_phys]:
+6263860554 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260604928
+[vict_phys]:
+6263869322 1
+[vict_phys]:
+6263880062 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260539392
+[vict_phys]:
+6263799983 4
+[vict_phys]:
+6263805370 64
+[vict_phys]:
+6263807114 8
+[vict_phys]:
+6263814250 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260637696
+[vict_phys]:
+6263903369 1
+[vict_phys]:
+6263909188 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260572160
+[vict_phys]:
+6260702276 1
+[vict_phys]:
+6263835450 64
+[vict_phys]:
+6263845241 2
+[vict_phys]:
+6263848924 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260596736
+[vict_phys]:
+6263895333 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260531200
+[vict_phys]:
+6260675184 16
+[vict_phys]:
+6263817343 32
+[vict_phys]:
+6263818458 128
+[vict_phys]:
+6263824906 8
+[vict_phys]:
+6263827754 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260629504
+[vict_phys]:
+6263926413 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260563968
+[vict_phys]:
+6260705090 128
+[vict_phys]:
+6263858201 64
+[vict_phys]:
+6263864973 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260613120
+[vict_phys]:
+6260731779 16
+[vict_phys]:
+6263870296 2
+[vict_phys]:
+6263879851 64
+[vict_phys]:
+6263880106 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260547584
+[vict_phys]:
+6263805775 64
+[vict_phys]:
+6263810232 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6260645888
+[vict_phys]:
+6260764306 8
+[vict_phys]:
+6263904489 64
+[vict_phys]:
+6263907752 8
+[vict_phys]:
+6263912893 32
+[vict_phys]:
+6263913645 4
+[vict_phys]:
+6263913917 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6271221760
+[vict_phys]:
+6271384171 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6271254528
+[vict_phys]:
+6273894055 64
+[vict_phys]:
+6273895936 1
+[vict_phys]:
+6273895952 8
+[vict_phys]:
+6273896341 4
+[vict_phys]:
+6273896881 32
+[vict_phys]:
+6273907924 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6271188992
+[vict_phys]:
+6273964727 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6271205376
+[vict_phys]:
+6271395834 16
+[vict_phys]:
+6273943602 1
+[vict_phys]:
+6273949184 128
+[vict_phys]:
+6273950657 4
+[vict_phys]:
+6273954114 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6271238144
+[vict_phys]:
+6271365320 128
+[vict_phys]:
+6273911961 16
+[vict_phys]:
+6273920723 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6271172608
+[vict_phys]:
+6271300444 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6271229952
+[vict_phys]:
+6271380123 16
+[vict_phys]:
+6273928695 8
+[vict_phys]:
+6273932656 64
+[vict_phys]:
+6273939492 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6271164416
+[vict_phys]:
+6271311832 32
+[vict_phys]:
+6273992151 64
+[vict_phys]:
+6273997785 64
+[vict_phys]:
+6274002609 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6271262720
+[vict_phys]:
+6273894007 4
+[vict_phys]:
+6273902737 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6271197184
+[vict_phys]:
+6273958208 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6271213568
+[vict_phys]:
+6273946229 128
+[vict_phys]:
+6273949730 128
+[vict_phys]:
+6273951635 2
+[vict_phys]:
+6273953186 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6271148032
+[vict_phys]:
+6274015540 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6271246336
+[vict_phys]:
+6271358315 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6313680896
+[vict_phys]:
+6314911111 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6313648128
+[vict_phys]:
+6314118007 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6327877632
+[vict_phys]:
+6330519097 1
+[vict_phys]:
+6330526681 16
+[vict_phys]:
+6330527456 64
+[vict_phys]:
+6330528599 16
+[vict_phys]:
+6330530625 64
+[vict_phys]:
+6330531440 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6327828480
+[vict_phys]:
+6330572594 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6327762944
+[vict_phys]:
+6330641856 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6327861248
+[vict_phys]:
+6330543174 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6327885824
+[vict_phys]:
+6330518519 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6327820288
+[vict_phys]:
+6330596527 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6327836672
+[vict_phys]:
+6330565588 128
+[vict_phys]:
+6330575618 64
+[vict_phys]:
+6330575632 16
+[vict_phys]:
+6330579714 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6327771136
+[vict_phys]:
+6330632932 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6327869440
+[vict_phys]:
+6330534864 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6334889984
+[vict_phys]:
+6335046107 8
+[vict_phys]:
+6337888920 64
+[vict_phys]:
+6337895188 1
+[vict_phys]:
+6337895336 1
+[vict_phys]:
+6337898955 64
+[vict_phys]:
+6337902028 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6334955520
+[vict_phys]:
+6337955256 2
+[vict_phys]:
+6337956655 4
+[vict_phys]:
+6337960326 128
+[vict_phys]:
+6337963754 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6334857216
+[vict_phys]:
+6337863321 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6334873600
+[vict_phys]:
+6337904664 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6334840832
+[vict_phys]:
+6337877020 16
+[vict_phys]:
+6337877644 16
+[vict_phys]:
+6337885951 128
+[vict_phys]:
+6337886425 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6334906368
+[vict_phys]:
+6337939642 32
+[vict_phys]:
+6337943056 2
+[vict_phys]:
+6337943355 1
+[vict_phys]:
+6337943451 4
+[vict_phys]:
+6337943981 8
+[vict_phys]:
+6337946705 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6334898176
+[vict_phys]:
+6337890280 4
+[vict_phys]:
+6337894250 16
+[vict_phys]:
+6337903754 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6334963712
+[vict_phys]:
+6334821127 4
+[vict_phys]:
+6337953903 16
+[vict_phys]:
+6337959374 128
+[vict_phys]:
+6337966617 64
+[vict_phys]:
+6337968570 8
+[vict_phys]:
+6337969176 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6334865408
+[vict_phys]:
+6335081610 16
+[vict_phys]:
+6337857737 16
+[vict_phys]:
+6337860572 128
+[vict_phys]:
+6337863035 8
+[vict_phys]:
+6337868556 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6334930944
+[vict_phys]:
+6337924301 128
+[vict_phys]:
+6337937164 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6334881792
+[vict_phys]:
+6337905914 32
+[vict_phys]:
+6337906429 8
+[vict_phys]:
+6337906812 8
+[vict_phys]:
+6337907912 128
+[vict_phys]:
+6337909481 64
+[vict_phys]:
+6337910269 128
+[vict_phys]:
+6337916432 1
+[vict_phys]:
+6337918636 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6334947328
+[vict_phys]:
+6337972603 32
+[vict_phys]:
+6337976649 4
+[vict_phys]:
+6337978554 8
+[vict_phys]:
+6337982088 128
+[vict_phys]:
+6337982477 16
+[vict_phys]:
+6337985928 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6334849024
+[vict_phys]:
+6337871961 64
+[vict_phys]:
+6337876425 1
+[vict_phys]:
+6337879256 64
+[vict_phys]:
+6337879631 8
+[vict_phys]:
+6337884941 4
+[vict_phys]:
+6337887258 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6345523200
+[vict_phys]:
+6345972482 1
+[vict_phys]:
+6345979340 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6345498624
+[vict_phys]:
+6345874782 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6345482240
+[vict_phys]:
+6348572758 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6345580544
+[vict_phys]:
+6345931066 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6349094912
+[vict_phys]:
+6351552123 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6352642048
+[vict_phys]:
+6355932415 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6352658432
+[vict_phys]:
+6355917647 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6356156416
+[vict_phys]:
+6356771322 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6356090880
+[vict_phys]:
+6359095083 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6356189184
+[vict_phys]:
+6359196866 2
+[vict_phys]:
+6359197798 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6356140032
+[vict_phys]:
+6356785693 2
+[vict_phys]:
+6356788056 2
+[vict_phys]:
+6359172285 8
+[vict_phys]:
+6359173176 128
+[vict_phys]:
+6359177006 128
+[vict_phys]:
+6359178520 1
+[vict_phys]:
+6359180492 32
+[vict_phys]:
+6359180616 16
+[vict_phys]:
+6359183970 16
+[vict_phys]:
+6359185354 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6356074496
+[vict_phys]:
+6359107629 16
+[vict_phys]:
+6359108105 32
+[vict_phys]:
+6359119081 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6356172800
+[vict_phys]:
+6356074208 128
+[vict_phys]:
+6357112207 16
+[vict_phys]:
+6357113514 128
+[vict_phys]:
+6359208076 8
+[vict_phys]:
+6359208101 8
+[vict_phys]:
+6359208735 4
+[vict_phys]:
+6359210012 8
+[vict_phys]:
+6359211056 16
+[vict_phys]:
+6359211563 4
+[vict_phys]:
+6359215072 64
+[vict_phys]:
+6359215587 64
+[vict_phys]:
+6359216764 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6356107264
+[vict_phys]:
+6359144968 32
+[vict_phys]:
+6359148628 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6356164608
+[vict_phys]:
+6359155061 16
+[vict_phys]:
+6359165824 128
+[vict_phys]:
+6359167920 8
+[vict_phys]:
+6359170696 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6356099072
+[vict_phys]:
+6356833661 16
+[vict_phys]:
+6359101735 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6356131840
+[vict_phys]:
+6356802375 4
+[vict_phys]:
+6356807738 64
+[vict_phys]:
+6359125612 8
+[vict_phys]:
+6359128907 32
+[vict_phys]:
+6359132842 4
+[vict_phys]:
+6359133483 64
+[vict_phys]:
+6359137408 16
+[vict_phys]:
+6359137676 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6356148224
+[vict_phys]:
+6356789306 64
+[vict_phys]:
+6359176058 128
+[vict_phys]:
+6359178473 8
+[vict_phys]:
+6359181464 2
+[vict_phys]:
+6359186209 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6356082688
+[vict_phys]:
+6359109317 8
+[vict_phys]:
+6359111778 16
+[vict_phys]:
+6359120658 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6356180992
+[vict_phys]:
+6359216690 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6359654400
+[vict_phys]:
+6360843255 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6363234304
+[vict_phys]:
+6366012647 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6363217920
+[vict_phys]:
+6366028775 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6363275264
+[vict_phys]:
+6365970775 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6363242496
+[vict_phys]:
+6366017159 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377422848
+[vict_phys]:
+6378033281 1
+[vict_phys]:
+6378038769 64
+[vict_phys]:
+6379835944 64
+[vict_phys]:
+6380140253 2
+[vict_phys]:
+6380426045 1
+[vict_phys]:
+6380428440 128
+[vict_phys]:
+6380433000 16
+[vict_phys]:
+6380434778 2
+[vict_phys]:
+6380434793 128
+[vict_phys]:
+6380435837 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377357312
+[vict_phys]:
+6379901369 64
+[vict_phys]:
+6380069757 16
+[vict_phys]:
+6380360499 128
+[vict_phys]:
+6380364138 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377390080
+[vict_phys]:
+6377715147 4
+[vict_phys]:
+6380168137 2
+[vict_phys]:
+6380170473 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377324544
+[vict_phys]:
+6380101377 8
+[vict_phys]:
+6380326286 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377406464
+[vict_phys]:
+6379864049 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377340928
+[vict_phys]:
+6380375708 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377373696
+[vict_phys]:
+6377729146 32
+[vict_phys]:
+6377731658 4
+[vict_phys]:
+6378081710 128
+[vict_phys]:
+6378093560 64
+[vict_phys]:
+6379817011 4
+[vict_phys]:
+6379819788 16
+[vict_phys]:
+6379824345 32
+[vict_phys]:
+6380175418 4
+[vict_phys]:
+6380180892 2
+[vict_phys]:
+6380181917 1
+[vict_phys]:
+6380190330 8
+[vict_phys]:
+6380405401 4
+[vict_phys]:
+6380409886 8
+[vict_phys]:
+6380409995 4
+[vict_phys]:
+6380411675 1
+[vict_phys]:
+6380411817 4
+[vict_phys]:
+6380413928 64
+[vict_phys]:
+6380415435 2
+[vict_phys]:
+6380418153 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377308160
+[vict_phys]:
+6377783963 16
+[vict_phys]:
+6379886891 1
+[vict_phys]:
+6380340751 64
+[vict_phys]:
+6380342713 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377431040
+[vict_phys]:
+6379839056 2
+[vict_phys]:
+6380130772 16
+[vict_phys]:
+6380423772 4
+[vict_phys]:
+6380424310 4
+[vict_phys]:
+6380429867 2
+[vict_phys]:
+6380432308 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377365504
+[vict_phys]:
+6377805530 1
+[vict_phys]:
+6377813545 32
+[vict_phys]:
+6379897304 16
+[vict_phys]:
+6380067777 64
+[vict_phys]:
+6380071946 16
+[vict_phys]:
+6380362461 128
+[vict_phys]:
+6380369664 128
+[vict_phys]:
+6380370442 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377398272
+[vict_phys]:
+6380166856 8
+[vict_phys]:
+6380175118 64
+[vict_phys]:
+6380388731 8
+[vict_phys]:
+6380389755 64
+[vict_phys]:
+6380398905 128
+[vict_phys]:
+6380399498 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377332736
+[vict_phys]:
+6378007334 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377414656
+[vict_phys]:
+6379852270 4
+[vict_phys]:
+6379856824 64
+[vict_phys]:
+6379862073 128
+[vict_phys]:
+6380152126 128
+[vict_phys]:
+6380153240 4
+[vict_phys]:
+6380443390 1
+[vict_phys]:
+6380445563 1
+[vict_phys]:
+6380448954 128
+[vict_phys]:
+6380449065 16
+[vict_phys]:
+6380451972 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377349120
+[vict_phys]:
+6377818364 4
+[vict_phys]:
+6377987676 2
+[vict_phys]:
+6380379756 128
+[vict_phys]:
+6380387230 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6377381888
+[vict_phys]:
+6380405194 4
+[vict_phys]:
+6380418217 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6380879872
+[vict_phys]:
+6383878277 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6380945408
+[vict_phys]:
+6383943943 4
+[vict_phys]:
+6383946753 64
+[vict_phys]:
+6383948848 32
+[vict_phys]:
+6383949744 16
+[vict_phys]:
+6383952610 32
+[vict_phys]:
+6383959120 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6380912640
+[vict_phys]:
+6382109831 64
+[vict_phys]:
+6382120823 64
+[vict_phys]:
+6383978404 4
+[vict_phys]:
+6383978515 128
+[vict_phys]:
+6383980706 4
+[vict_phys]:
+6383983780 4
+[vict_phys]:
+6383986416 32
+[vict_phys]:
+6383986548 128
+[vict_phys]:
+6383988947 2
+[vict_phys]:
+6383991159 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6380896256
+[vict_phys]:
+6381316175 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6380863488
+[vict_phys]:
+6382027031 2
+[vict_phys]:
+6383674203 64
+[vict_phys]:
+6383895078 8
+[vict_phys]:
+6383899031 4
+[vict_phys]:
+6383904480 2
+[vict_phys]:
+6383904982 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6380929024
+[vict_phys]:
+6383961632 4
+[vict_phys]:
+6383970637 64
+[vict_phys]:
+6383971442 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6380888064
+[vict_phys]:
+6383878852 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6380953600
+[vict_phys]:
+6383950199 4
+[vict_phys]:
+6383957028 128
+[vict_phys]:
+6383957648 32
+[vict_phys]:
+6383958407 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6380855296
+[vict_phys]:
+6383921152 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6380920832
+[vict_phys]:
+6383977158 8
+[vict_phys]:
+6383985927 4
+[vict_phys]:
+6383988392 128
+[vict_phys]:
+6383989944 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6380904448
+[vict_phys]:
+6383863648 16
+[vict_phys]:
+6383865027 8
+[vict_phys]:
+6383870855 8
+[vict_phys]:
+6383871266 16
+[vict_phys]:
+6383871875 32
+[vict_phys]:
+6383873424 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6380969984
+[vict_phys]:
+6383928641 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6380871680
+[vict_phys]:
+6383900746 8
+[vict_phys]:
+6383902450 8
+[vict_phys]:
+6383905072 128
+[vict_phys]:
+6383906178 16
+[vict_phys]:
+6383906816 16
+[vict_phys]:
+6383907751 16
+[vict_phys]:
+6383909378 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6384467968
+[vict_phys]:
+6387184705 32
+[vict_phys]:
+6387187046 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6384402432
+[vict_phys]:
+6387240066 128
+[vict_phys]:
+6387242038 2
+[vict_phys]:
+6387244084 8
+[vict_phys]:
+6387244290 64
+[vict_phys]:
+6387245168 16
+[vict_phys]:
+6387247732 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6384500736
+[vict_phys]:
+6384588222 32
+[vict_phys]:
+6387141153 8
+[vict_phys]:
+6387148119 4
+[vict_phys]:
+6387151952 128
+[vict_phys]:
+6387153489 4
+[vict_phys]:
+6387153890 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6384435200
+[vict_phys]:
+6387206450 4
+[vict_phys]:
+6387206679 4
+[vict_phys]:
+6387212788 128
+[vict_phys]:
+6387213025 2
+[vict_phys]:
+6387216067 4
+[vict_phys]:
+6387217733 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6384451584
+[vict_phys]:
+6387190147 128
+[vict_phys]:
+6387194420 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6384386048
+[vict_phys]:
+6387259410 64
+[vict_phys]:
+6387260592 64
+[vict_phys]:
+6387261633 4
+[vict_phys]:
+6387261894 8
+[vict_phys]:
+6387262160 128
+[vict_phys]:
+6387263824 32
+[vict_phys]:
+6387263863 4
+[vict_phys]:
+6387268291 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6384484352
+[vict_phys]:
+6384604056 32
+[vict_phys]:
+6387165121 32
+[vict_phys]:
+6387169890 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6384418816
+[vict_phys]:
+6384549321 32
+[vict_phys]:
+6387222565 128
+[vict_phys]:
+6387224835 1
+[vict_phys]:
+6387229799 32
+[vict_phys]:
+6387230277 128
+[vict_phys]:
+6387230913 4
+[vict_phys]:
+6387231591 2
+[vict_phys]:
+6387232192 2
+[vict_phys]:
+6387233008 8
+[vict_phys]:
+6387233013 32
+[vict_phys]:
+6387236690 1
+[vict_phys]:
+6387236691 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6384476160
+[vict_phys]:
+6387176417 4
+[vict_phys]:
+6387177568 32
+[vict_phys]:
+6387178954 64
+[vict_phys]:
+6387179569 1
+[vict_phys]:
+6387179825 32
+[vict_phys]:
+6387180208 16
+[vict_phys]:
+6387182499 4
+[vict_phys]:
+6387184387 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6384410624
+[vict_phys]:
+6387242597 2
+[vict_phys]:
+6387245619 8
+[vict_phys]:
+6387246117 1
+[vict_phys]:
+6387246240 16
+[vict_phys]:
+6387246752 32
+[vict_phys]:
+6387248036 64
+[vict_phys]:
+6387248688 4
+[vict_phys]:
+6387249299 32
+[vict_phys]:
+6387251509 1
+[vict_phys]:
+6387251632 2
+[vict_phys]:
+6387252532 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6384443392
+[vict_phys]:
+6387206257 16
+[vict_phys]:
+6387206625 64
+[vict_phys]:
+6387209973 128
+[vict_phys]:
+6387216928 32
+[vict_phys]:
+6387217281 1
+[vict_phys]:
+6387219258 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6384459776
+[vict_phys]:
+6387197956 2
+[vict_phys]:
+6387198608 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6384394240
+[vict_phys]:
+6387253332 2
+[vict_phys]:
+6387255013 64
+[vict_phys]:
+6387259634 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6387974144
+[vict_phys]:
+6389380567 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6409273344
+[vict_phys]:
+6412547679 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6409232384
+[vict_phys]:
+6412521335 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6412779520
+[vict_phys]:
+6412645108 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6412746752
+[vict_phys]:
+6412607728 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6412763136
+[vict_phys]:
+6412659956 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6412697600
+[vict_phys]:
+6412585220 2
+[vict_phys]:
+6412593856 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6412795904
+[vict_phys]:
+6415468576 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6412754944
+[vict_phys]:
+6412614583 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6412771328
+[vict_phys]:
+6415804177 32
+[vict_phys]:
+6415805721 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6416236544
+[vict_phys]:
+6416683706 64
+[vict_phys]:
+6416979624 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6416302080
+[vict_phys]:
+6416755136 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6416269312
+[vict_phys]:
+6416651420 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6416334848
+[vict_phys]:
+6417180877 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6416252928
+[vict_phys]:
+6419064443 8
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6416318464
+[vict_phys]:
+6416730911 4
+[vict_phys]:
+6416738511 64
+[vict_phys]:
+6416902345 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6416285696
+[vict_phys]:
+6416645192 1
+[vict_phys]:
+6417000169 16
+[vict_phys]:
+6417226521 64
+[vict_phys]:
+6419319100 16
+[vict_phys]:
+6419327080 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6416244736
+[vict_phys]:
+6416686936 1
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6416310272
+[vict_phys]:
+6416748272 64
+[vict_phys]:
+6416756395 128
+[vict_phys]:
+6417207386 128
+[vict_phys]:
+6417209949 64
+[vict_phys]:
+6419013820 16
+[vict_phys]:
+6419017789 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6416277504
+[vict_phys]:
+6419112984 64
+[vict_phys]:
+6419113788 8
+[vict_phys]:
+6419335805 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6416343040
+[vict_phys]:
+6416714872 64
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6416326656
+[vict_phys]:
+6416904450 8
+[vict_phys]:
+6416905912 4
+[vict_phys]:
+6419287750 128
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6416293888
+[vict_phys]:
+6416640954 1
+[vict_phys]:
+6419095267 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6419775488
+[vict_phys]:
+6422580519 16
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6419832832
+[vict_phys]:
+6422534375 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6419881984
+[vict_phys]:
+6422622359 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6419783680
+[vict_phys]:
+6422585031 128
+[vict_phys]:
+6422591375 4
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6423412736
+[vict_phys]:
+6423735410 1
+[vict_phys]:
+6425823541 64
+[vict_phys]:
+6425825552 4
+[vict_phys]:
+6425827588 16
+[vict_phys]:
+6426412469 32
+[vict_phys]:
+6426416912 128
+[vict_phys]:
+6426418071 64
+[vict_phys]:
+6426419120 32
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6423347200
+[vict_phys]:
+6424093552 32
+[vict_phys]:
+6425900741 8
+[vict_phys]:
+6426181762 16
+[vict_phys]:
+6426193735 4
+[vict_phys]:
+6426196049 8
+[vict_phys]:
+6426196566 128
+[vict_phys]:
+6426347426 16
+[vict_phys]:
+6426353031 16
+[vict_phys]:
+6426358103 64
+[vict_phys]:
+6426358599 1
+[vict_phys]:
+6426359410 2
+[end]
+[aggr_num]:
+13
+[aggr_dist]:
+2
+[aggr_phys]:
+6423314432
+[vict_phys]:
+6425929312 16
+[vict_phys]:
+6426156437 32
+[vict_phys]:
+6426378389 128
+[vict_phys]:
+6426381842 128
+[vict_phys]:
+6426388434 4
+[vict_phys]:
+6426388452 32
+[end]
