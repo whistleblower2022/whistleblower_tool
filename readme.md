@@ -75,7 +75,7 @@ sudo ./hammer-record --hm 0 --dp 2 -i ../conf/Skylake_16bank_8GB.conf -n 13 -t 1
 
 # Repeat hammer the collected bits
 make
-sudo ./hammer-record --hm 0 --dp 2 -i ../conf/Skylake_16bank_8GB.conf -n 13 -t 1000000 
+sudo ./hammer --hm 0 --dp 2 -i ../conf/Skylake_16bank_8GB.conf -n 13 -t 1000000 
 
 ```
 
